@@ -1,0 +1,89 @@
+body {
+	border: 10px solid #2b81ac;
+	min-height: 100vh;
+	background-color: #3399cc;
+	margin: 0;
+	font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+}
+*{
+	box-sizing: border-box;
+	transition: all .1s ease-in;
+}
+header, p{
+	width: 80%;
+	margin: 0 auto;
+	color: #fff;
+}
+H1 {
+	width: 80%;
+}
+main {
+	width: 80%;
+	margin: 0 auto;
+	margin-top: 0;
+	border: 2px solid #FFF;
+	}
+li {
+	display: inline-block;
+	padding: 30px;
+	border: 2px solid #FFF;
+	font-size: 20px;
+	width: 100%;
+	text-align: center;
+	margin: 0;
+}
+ul {
+	font-size: 0px;
+	border: 2px;
+	padding: 0;
+	background-color: #fff;
+}
+.q:hover > li{
+opacity: 0.5;
+}
+.q:hover > li:hover{
+opacity: 1;
+position: static;
+}
+.xs {
+	width: 25%;
+}
+.md {
+	width: 50%;
+}
+.Gol {
+	background-color: #3399cc;
+	}
+.Bir {
+	background-color: #33cccc;
+	}
+.Roz_M {
+	background-color: #996699;
+	}
+.Kash {
+	background-color: #c24747;
+	}
+.Sien {
+	background-color: #e2674a;
+	}
+.Jolt {
+	background-color: #ffcc66;
+	}
+.S_Zel{
+	background-color: #99cc99;
+	}
+.Zel_sin {
+	background-color: #669999;
+	}
+.Roz {
+	background-color: #cc6699;
+	}
+.Zel {
+	background-color: #339966;
+	}
+.Pur_Sin {
+	background-color: #666699;
+}
+.wi {
+	font-size: 25px;
+}
